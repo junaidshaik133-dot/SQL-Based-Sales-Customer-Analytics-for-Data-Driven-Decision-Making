@@ -21,9 +21,12 @@ The main datasets used include:
 - **fact_gross_price** → Gross product pricing details  
 - **fact_manufacturing_cost** → Manufacturing cost per product  
 - **fact_pre_invoice_deductions** → Discounts and deductions data
+- **dim_product** → product details
+- **dim_customer** → customers detials  
+  
 
-  #📌 Project Overview  
-- Analyzed sales and customer data using SQL queries.  
+  #📌 Project Overview
+  - Analyzed sales and customer data using SQL queries.  
 - Addressed **10 business requests** to generate reports and insights.  
 - Findings help inform **future strategies, product planning, and sales optimization
 - **dim_customer** → Customer details (market, region, channel)  
