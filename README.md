@@ -1,8 +1,8 @@
-#📊 Data-Driven Decision Making using SQL  
+#  📊 Data-Driven Decision Making using SQL  
 This repository contains the SQL scripts used to analyze customer, product, and sales data for AtliQ. The project addresses several business requests focused on sales trends, customer insights, product performance, and channel contribution, helping the company make data-driven strategic decisions.
 
 
- #🔎 Introduction  
+ #  🔎 Introduction  
 Data-driven decision making is a critical component in today’s competitive market.  
 This project aims to analyze AtliQ’s internal sales database to provide insights into:  
 
@@ -13,7 +13,7 @@ This project aims to analyze AtliQ’s internal sales database to provide insigh
 
   By leveraging SQL analytics, the goal is to generate actionable insights and help optimize **sales, resource allocation, and customer engagement strategies.
 
- #📂 Data Sources  
+ #  📂 Data Sources  
 The analysis is based on data obtained from AtliQ’s internal SQL database.  
 The main datasets used include:  
 
@@ -25,14 +25,14 @@ The main datasets used include:
 - **dim_customer** → customers detials  
   
 
-  #📌 Project Overview
+  #  📌 Project Overview
   - Analyzed sales and customer data using SQL queries.  
 - Addressed **10 business requests** to generate reports and insights.  
 - Findings help inform **future strategies, product planning, and sales optimization
 - **dim_customer** → Customer details (market, region, channel)  
 - **dim_product** → Product details (segment, division, category)
 
- #🏷️ Business Requests  
+ #  🏷️ Business Requests  
      1️⃣ Yearly Report for Croma
        Objective: Generate a yearly sales report for the customer Croma with fiscal year and gross sales amount.
        
